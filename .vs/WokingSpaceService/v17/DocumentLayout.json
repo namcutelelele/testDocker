@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{406555E8-A50F-446E-9E46-616D593B74BB}|WorkingSpace_API\\WorkingSpace_API.csproj|d:\\study\\sep490\\project\\wokingspaceservice\\workingspace_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406555E8-A50F-446E-9E46-616D593B74BB}|WorkingSpace_API\\WorkingSpace_API.csproj|solutionrelative:workingspace_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406555E8-A50F-446E-9E46-616D593B74BB}|WorkingSpace_API\\WorkingSpace_API.csproj|d:\\study\\sep490\\project\\wokingspaceservice\\workingspace_api\\workingspace_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{406555E8-A50F-446E-9E46-616D593B74BB}|WorkingSpace_API\\WorkingSpace_API.csproj|solutionrelative:workingspace_api\\workingspace_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406555E8-A50F-446E-9E46-616D593B74BB}|WorkingSpace_API\\WorkingSpace_API.csproj|d:\\study\\sep490\\project\\wokingspaceservice\\workingspace_api\\controllers\\studentnotebookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406555E8-A50F-446E-9E46-616D593B74BB}|WorkingSpace_API\\WorkingSpace_API.csproj|solutionrelative:workingspace_api\\controllers\\studentnotebookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E64183-14B8-423F-8FFE-655ADA732FBE}|WorkingSpace_Repositories\\WorkingSpace_Repositories.csproj|d:\\study\\sep490\\project\\wokingspaceservice\\workingspace_repositories\\iworkingspacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E64183-14B8-423F-8FFE-655ADA732FBE}|WorkingSpace_Repositories\\WorkingSpace_Repositories.csproj|solutionrelative:workingspace_repositories\\iworkingspacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA46C774-D384-4BF2-8755-7105B7084878}|WorkingSpace_Services\\WorkingSpace_Services.csproj|d:\\study\\sep490\\project\\wokingspaceservice\\workingspace_services\\workingspaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA46C774-D384-4BF2-8755-7105B7084878}|WorkingSpace_Services\\WorkingSpace_Services.csproj|solutionrelative:workingspace_services\\workingspaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440E696D-ECE6-41AC-950F-54FABF1EBA72}|WorkingSpace_DataAccessLayer\\WorkingSpace_DataAccessLayer.csproj|d:\\study\\sep490\\project\\wokingspaceservice\\workingspace_dataaccesslayer\\datalayer\\workingspacedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440E696D-ECE6-41AC-950F-54FABF1EBA72}|WorkingSpace_DataAccessLayer\\WorkingSpace_DataAccessLayer.csproj|solutionrelative:workingspace_dataaccesslayer\\datalayer\\workingspacedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E64183-14B8-423F-8FFE-655ADA732FBE}|WorkingSpace_Repositories\\WorkingSpace_Repositories.csproj|d:\\study\\sep490\\project\\wokingspaceservice\\workingspace_repositories\\workingspacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E64183-14B8-423F-8FFE-655ADA732FBE}|WorkingSpace_Repositories\\WorkingSpace_Repositories.csproj|solutionrelative:workingspace_repositories\\workingspacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA46C774-D384-4BF2-8755-7105B7084878}|WorkingSpace_Services\\WorkingSpace_Services.csproj|d:\\study\\sep490\\project\\wokingspaceservice\\workingspace_services\\iworkingspaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA46C774-D384-4BF2-8755-7105B7084878}|WorkingSpace_Services\\WorkingSpace_Services.csproj|solutionrelative:workingspace_services\\iworkingspaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 990,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_API\\Program.cs",
+              "RelativeDocumentMoniker": "WorkingSpace_API\\Program.cs",
+              "ToolTip": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_API\\Program.cs",
+              "RelativeToolTip": "WorkingSpace_API\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:31:04.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkingSpace_API.http",
+              "DocumentMoniker": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_API\\WorkingSpace_API.http",
+              "RelativeDocumentMoniker": "WorkingSpace_API\\WorkingSpace_API.http",
+              "ToolTip": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_API\\WorkingSpace_API.http",
+              "RelativeToolTip": "WorkingSpace_API\\WorkingSpace_API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-08T19:28:57.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IWorkingSpaceRepository.cs",
+              "DocumentMoniker": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_Repositories\\IWorkingSpaceRepository.cs",
+              "RelativeDocumentMoniker": "WorkingSpace_Repositories\\IWorkingSpaceRepository.cs",
+              "ToolTip": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_Repositories\\IWorkingSpaceRepository.cs",
+              "RelativeToolTip": "WorkingSpace_Repositories\\IWorkingSpaceRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA8wCcAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:15:43.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentNoteBookController.cs",
+              "DocumentMoniker": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_API\\Controllers\\StudentNoteBookController.cs",
+              "RelativeDocumentMoniker": "WorkingSpace_API\\Controllers\\StudentNoteBookController.cs",
+              "ToolTip": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_API\\Controllers\\StudentNoteBookController.cs",
+              "RelativeToolTip": "WorkingSpace_API\\Controllers\\StudentNoteBookController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwGUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:18:44.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IWorkingSpaceService.cs",
+              "DocumentMoniker": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_Services\\IWorkingSpaceService.cs",
+              "RelativeDocumentMoniker": "WorkingSpace_Services\\IWorkingSpaceService.cs",
+              "ToolTip": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_Services\\IWorkingSpaceService.cs",
+              "RelativeToolTip": "WorkingSpace_Services\\IWorkingSpaceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:41:34.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 24,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkingSpaceService.cs",
+              "DocumentMoniker": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_Services\\WorkingSpaceService.cs",
+              "RelativeDocumentMoniker": "WorkingSpace_Services\\WorkingSpaceService.cs",
+              "ToolTip": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_Services\\WorkingSpaceService.cs",
+              "RelativeToolTip": "WorkingSpace_Services\\WorkingSpaceService.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAgwNMAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:10:37.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorkingSpaceDAO.cs",
+              "DocumentMoniker": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_DataAccessLayer\\DataLayer\\WorkingSpaceDAO.cs",
+              "RelativeDocumentMoniker": "WorkingSpace_DataAccessLayer\\DataLayer\\WorkingSpaceDAO.cs",
+              "ToolTip": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_DataAccessLayer\\DataLayer\\WorkingSpaceDAO.cs",
+              "RelativeToolTip": "WorkingSpace_DataAccessLayer\\DataLayer\\WorkingSpaceDAO.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAnwGsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:14:12.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WorkingSpaceRepository.cs",
+              "DocumentMoniker": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_Repositories\\WorkingSpaceRepository.cs",
+              "RelativeDocumentMoniker": "WorkingSpace_Repositories\\WorkingSpaceRepository.cs",
+              "ToolTip": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_Repositories\\WorkingSpaceRepository.cs",
+              "RelativeToolTip": "WorkingSpace_Repositories\\WorkingSpaceRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwCkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:15:56.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

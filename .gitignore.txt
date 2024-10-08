@@ -1,0 +1,82 @@
+# Build Folders
+bin/
+obj/
+Debug/
+Release/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+$RECYCLE.BIN/
+
+# Recycle Bin used on file shares
+*.cab
+*.msi
+*.msm
+*.msp
+*.tlog
+*.log
+
+# Visual Studio 2019/2022
+.vs/
+.vscode/
+.vscode-test/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+*.dll
+
+# Azure Functions
+local.settings.json
+
+# Mac Files
+.DS_Store
+
+# Rider
+.idea/
+.idea_modules/
+
+# JetBrains Rider & IntelliJ
+.idea/
+.idea_modules/
+
+# Local History for IntelliJ
+.idea_modules/localhistory/
+
+# Rider settings
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+
+# Rider file-based indices
+.idea_index/
+
+# Rider caches
+.idea/caches/
+
+# Rider logs
+.idea/logs/
